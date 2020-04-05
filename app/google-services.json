@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974785861527",
+    "firebase_url": "https://phoneauthentication-ed062.firebaseio.com",
+    "project_id": "phoneauthentication-ed062",
+    "storage_bucket": "phoneauthentication-ed062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974785861527:android:425f3cac7a0509e5b296d2",
+        "android_client_info": {
+          "package_name": "com.hfad.phoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974785861527-9e6dcb6mutskeeja5956ltpdv40s6usp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.phoneauthentication",
+            "certificate_hash": "beedf7e501ed63b4b642e74b20ee4fc5195b5d64"
+          }
+        },
+        {
+          "client_id": "974785861527-hpk4ficrhmqph2dtv82bgu35t8t0l5g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0w_Sx9mg2JnIsPM-T5gnGgutwt5KY71A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974785861527-hpk4ficrhmqph2dtv82bgu35t8t0l5g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
